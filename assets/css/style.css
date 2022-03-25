@@ -186,7 +186,7 @@ html {
     background-color: #333;*/
     margin-top: 46px; /*để slider và header k đè lên nhau*/
     padding-top: 50%; /*để khi phóng to thu nhỏ trình duyệt. slider k bị bể nội dung*/
-    background: url('../img/slider/slider1.jpg') top center / cover no-repeat;
+    background: url("../img/slider/slider1.jpg") top center / cover no-repeat;
                 /*url là background-image
                 top center là background-position
                 cover là background-size
